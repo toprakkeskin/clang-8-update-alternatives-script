@@ -22,5 +22,5 @@ To retrieve the archive signature:
 <code>#: apt-get install libc++-8-dev libc++abi-8-dev</code>  
 
 ## Using the script
-<code>#: sudo chmod +x clang-update-alternatives.sh  
-&nbsp;#: ./clang-update-alternatives.sh</code>  
+<code>#: sudo chmod +x clang-update-alternatives.sh</code>  
+<code>#: ./clang-update-alternatives.sh</code>  
